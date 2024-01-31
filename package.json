@@ -1,0 +1,22 @@
+{
+  "name": "ramen-syndrome_jsonserver",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramen-Syndrome/Ramen-Syndrome_jsonServer.git"
+  },
+  "keywords": [
+    "jsonserver"
+  ],
+  "author": "Ramen-Syndrome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramen-Syndrome/Ramen-Syndrome_jsonServer/issues"
+  },
+  "homepage": "https://github.com/Ramen-Syndrome/Ramen-Syndrome_jsonServer#readme"
+}
