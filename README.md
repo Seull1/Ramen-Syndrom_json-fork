@@ -24,6 +24,19 @@ Serving ./public directory if it exists
 Endpoints:
 http://localhost:3000/sales
 ```
+## 배포방법
+![image](https://github.com/Ramen-Syndrome/Ramen-Syndrome_jsonServer/assets/148920003/523a53e5-ebb4-4f9b-922c-7f0ac51659d3)
+
+## 배포 환경
+### Machine Sizes
+- shared-1x-cpu@256MB
+### App Type
+- Apps v2
+### IP addresses
+- 66.241.125.249
+- 2a09:8280:1::1c:fdf1
+### RootFS Sizes
+- 1 GB
 
 ## fly.io URL
 - https://ramen-syndrome-jsonserver.fly.dev
